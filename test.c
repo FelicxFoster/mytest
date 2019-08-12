@@ -7,7 +7,6 @@ char add2[] = "zyj";
 //extern void test1();
 //extern void test2();
 //extern int testmain();
-// test
 int testmain()
 {
 	//test1();
